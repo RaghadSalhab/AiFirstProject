@@ -1,6 +1,4 @@
-Adding emojis can make your README more engaging! Here’s an updated version with some emojis to highlight key sections and make it more visually appealing.
 
-```markdown
 # 🧩 Minesweeper Game
 
 A simple Minesweeper game built with Python and Pygame. The game features a classic Minesweeper board where players reveal cells to avoid mines and flag suspected mine locations.
