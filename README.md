@@ -66,15 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy playing Minesweeper! 🎉💣🚩
-```
 
-### Emoji Highlights
 
-- **Features**: Added relevant emojis for each feature (e.g., ⏳ for loading animation, 💥 for game over).
-- **Installation**: Used 📦 and 🚀 for steps to install and start the game.
-- **Controls**: Added 🖱️ and 🔴 for click instructions.
-- **Gameplay Objective**: Added clarity with game-related icons like 🎉 and 💣.
-- **Code Overview**: Used 🛠️ to introduce code details.
-- **License**: Added 📄 for the license section.
-
-This version makes the README more fun and visually appealing. Let me know if you want any more adjustments!
